@@ -1,0 +1,10 @@
+torch==2.1.2
+transformers
+datasets
+accelerate
+bitsandbytes
+scipy
+ninja
+jupyter
+ipywidgets
+unsloth[cu121] 
